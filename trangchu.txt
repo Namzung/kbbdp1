@@ -1,1 +1,6 @@
-https://www.google.com/
+{
+  "main": {
+    "trangchu": "https://www.google.com/",
+    "chinhsach": "https://www.google.com/1"
+  }
+}
