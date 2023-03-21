@@ -1,6 +1,6 @@
 {
   "main": {
-    "trangchu": "https://www.google.com/",
-    "chinhsach": "https://www.google.com/1"
+    "trangchu": "http://kugroup.asia",
+    "chinhsach": "http://kugroup.asia"
   }
 }
